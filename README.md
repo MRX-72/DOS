@@ -1,12 +1,14 @@
-#Note: [I'm not responsible for any kind of
-#Dos or DDos attack performed with
-#this tool]
+# Note: [I'm not responsible for any kind of Dos or DDos attack performed with this tool]
  
 > Setting it up:
-`apt install clang` >
-`cd DOS`>
-`g++ $file.cpp`>
-`./a.out`>
+`apt install clang` 
+>  
+`cd DOS`
+> 
+`g++ $file.cpp`
+> 
+`./a.out`
+> 
 # OS:
 
 # The tool is made only for linux distributions
