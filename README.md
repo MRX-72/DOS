@@ -1,6 +1,7 @@
 # Note: [I'm not responsible for any kind of Dos or DDos attack performed with this tool]
  
 > Setting it up:
+>  
 `apt install clang` 
 >  
 `cd DOS`
@@ -34,7 +35,6 @@ $Load:
 
 $Starting the attack:
 
-# You will see " $> "
+# You will see  `$>`
 # Type "run" to execute the attack
 
-# Usage: 
