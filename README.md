@@ -6,7 +6,7 @@
 >  
 `cd DOS`
 > 
-`g++ $file.cpp`
+`g++ Dos.cpp`
 > 
 `./a.out`
 > 
@@ -47,3 +47,4 @@ $Load:
 # You will see  `$>`
 # Type "run" to execute the attack
 
+# (Tool works on the principal of POD (Ping Of Death)
